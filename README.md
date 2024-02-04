@@ -1,1 +1,1 @@
-<img src="dist/banner.svg" width="100%">
+<img src="dist/AERIAL.svg" width="100%">
